@@ -43,9 +43,6 @@ minishift start
 Delete minishift
 ```
 minishift delete --clear-cache
-
-minishift delete --clear-cache
-
 ```
 
 Create environment
